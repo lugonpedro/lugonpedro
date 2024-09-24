@@ -1,7 +1,7 @@
 ```
 👋 Hi, I'm Pedro Lugon
 🌎 Living in Brasília - Brazil
-💻 Working with React and C# at Codgo.X
+💻 Working with Typescript in ?
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lugonpedro)
