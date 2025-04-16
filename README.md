@@ -1,7 +1,7 @@
 ```
 👋 Hi, I'm Pedro Lugon
 🌎 Living in Brasília - Brazil
-💻 Working with Typescript in Rank My App
+💻 Working with Liferay in Simplify Tecnologia
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lugonpedro)
