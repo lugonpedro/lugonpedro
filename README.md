@@ -16,9 +16,3 @@
   <br />
 
   </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=lugonpedro&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
-  </div>
